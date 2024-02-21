@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-## README
-=======
 # EC2에서 Jenkins로 build하기
 
 **jenkins를 이용해 AWS EC2에서 자동으로 build 되도록 구현한다.**
@@ -106,5 +103,3 @@ $ sudo vi /etc/fstab
 
 /swapfile swap swap defaults 0 0
 ```
-
->>>>>>> 664bd9e (Update README.md)
