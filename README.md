@@ -36,7 +36,7 @@ $ docker exec myjenkins sh -c 'cat /var/jenkins_home/secrets/initialAdminPasswor
 
 http://< EC2 퍼블릭 IPv4 주소 > : 8080으로 접속
 
-## 파이프라인 설정
+### 파이프라인 설정
 
 GitHub project 체크: Project url에 github repo주소 입력
 
